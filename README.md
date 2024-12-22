@@ -21,11 +21,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning: `React`
   <br><br>
 - 🤔 I’m looking for help with Open source Contribution.
   <br><br>
-- ⚙️ I use daily: `.js`, `.css`, `.html`
+- ⚙️ I use daily: `.html`,`.css`, `.js`,`.php`,`.tailwindcss`,`.python`
   <br><br>
 - 👨‍💻 All of my projects are available at [https://tharushz.github.io/My-portfolio/profile.html](https://tharushz.github.io/My-portfolio/profile.html)
   <br><br>
