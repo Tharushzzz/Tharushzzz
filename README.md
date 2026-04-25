@@ -27,7 +27,7 @@
   <br><br>
 - ⚙️ I use daily: `.html`,`.css`, `.js`,`.php`,`.tailwindcss`,`.python`
   <br><br>
-- 👨‍💻 All of my projects are available at [https://tharushz.github.io/My-portfolio/profile.html](https://tharushz.github.io/My-portfolio/profile.html)
+- 👨‍💻 All of my projects are available at ...
   <br><br>
 - 📫 How to reach me **tharushadilmin123@gmail.com**
 
